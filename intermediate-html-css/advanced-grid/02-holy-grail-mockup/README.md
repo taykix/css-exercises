@@ -24,7 +24,7 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 - The header element has two columns
 - The `ul` inside the menu element contains another grid
 - The `ul` inside the nav element contains another grid
-- The sidebar element has a gap of 50px
+d
 - The text elements in the sidebar are centered with grid
 - The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties
 - The article columns should have a minimum value of 250px and a maximum of 1fr unit
